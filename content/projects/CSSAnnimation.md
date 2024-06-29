@@ -1,13 +1,13 @@
 ---
 date: '2021-05-31'
-title: 'CSS Animation WebApp'
-github: 'https://github.com/yashitanamdeo/CSS-Animation-WebApp'
-external: 'https://yashitanamdeo.github.io/CSS-Animation-WebApp/'
+title: 'Piza Hut'
+github: 'https://github.com/biodun-dev/Framer-motion'
+external: 'https://pizzahuttt.netlify.app/'
 tech:
-  - HTML
-  - CSS
+  - Framer Motion
+  - React
 company: 'Suven'
 showInProjects: true
 ---
 
-Project 3 under HTML-CSS Suven Coding Internship
+Personal Project,This WebApp Allows users to customise and order their Pizza order.

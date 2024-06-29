@@ -1,13 +1,13 @@
 ---
 date: '2021-06-01'
-title: 'Voter Registration WebApp'
-github: 'https://github.com/yashitanamdeo/Voter-Registration-WebApp'
-external: 'https://yashitanamdeo.github.io/Voter-Registration-WebApp/'
+title: 'A simulation of a Movie streaming App'
+github: 'https://github.com/biodun-dev/project2'
+external: 'https://biodun-movieproject-nu-ecru.vercel.app/browse'
 tech:
-  - HTML
-  - CSS
+  - NextJs
+  - Redux
 company: 'Suven'
 showInProjects: true
 ---
 
-Project 4 under HTML-CSS Suven Coding Internship
+Personal project, This App allows user to stream their favorite movies.

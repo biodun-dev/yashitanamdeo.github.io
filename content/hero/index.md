@@ -1,10 +1,10 @@
 ---
 title: 'Hello, my name is'
-name: 'Yashita Namdeo'
+name: 'Abiodun Abdullahi'
 subtitle: 'I love exploring new things!'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Final Year Computer Science Engineering Student at SVVV, Indore. Primarily interested in Web Development and Data Science.
+I'm a Fullstack Developer with a passion for acquiring and applying new skills to real-world problems.
 
-I enjoy learning new skills and implementing them in real life!
+I thrive on challenges and enjoy both backend and frontend development to create comprehensive solutions.

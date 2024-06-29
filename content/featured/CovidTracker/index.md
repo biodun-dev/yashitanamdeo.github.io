@@ -1,18 +1,15 @@
 ---
 date: '1'
-title: 'Covid-19 Tracker'
+title: 'Make It Good Again'
 cover: 'demo1.png'
-github: 'https://github.com/yashitanamdeo/Covid19-tracker'
-external: 'https://covid19-tracker-84ef4.web.app/'
+github: 'https://www.makeitgoodagain.dk/'
+external: 'https://www.makeitgoodagain.dk/'
 tech:
-  - ReactJS
-  - Firebase
-  - Material UI
+  - Ruby
+  - CoffeScript
+  - PSQL
 
 showInProjects: true
 ---
 
-Designed and implemented React-based Web Application to monitor live corona cases, recoveries, and
-deaths(clickable tabs) in 180+ countries worldwide. Directed to display 2 features – worldwide cases and countries based report; clickable markers on the map to show country stats and line chart for fluctuations over days, on hover, gives exact figures.
-
-Inspired by Clever Programmer's [Youtube Channel](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
+Make It Good Again is a dedicated platform designed to connect individuals with professional repair services for all household needs. Leveraging robust technologies like Ruby for powerful backend processing, CoffeeScript for smooth and responsive client-side behavior, and PostgreSQL for secure and scalable database management, this website ensures a user-friendly experience for scheduling and managing repairs. Whether you need appliance fixing, furniture restoration, or plumbing solutions, Make It Good Again provides a reliable, efficient, and easy way to rejuvenate your home. Explore our services today to see how we can help make your home good as new!

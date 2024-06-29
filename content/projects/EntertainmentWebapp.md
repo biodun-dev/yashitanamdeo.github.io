@@ -1,14 +1,14 @@
 ---
 date: '2021-05-21'
-title: '365 Entertainment Movie WebApp'
-github: 'https://github.com/yashitanamdeo/365-entertainment-Movie-Webapp'
-external: 'https://yashitanamdeo.github.io/365-entertainment-Movie-Webapp/'
+title: 'spotify Clone'
+github: 'https://github.com/biodun-dev/spotify_clone'
+external: 'https://clonespotify-silk.vercel.app/'
 tech:
-  - HTML
-  - CSS
+  - Typescript
+  - NextJs
   - Javascript
-company: 'Suven'
+
 showInProjects: true
 ---
 
-Project 1 under Suven Coding Internship
+Personal Project: A simulation of Spotify landing page

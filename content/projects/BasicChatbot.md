@@ -1,16 +1,16 @@
 ---
 date: '2020-02-15'
-title: 'Basic Chatbot'
-github: 'https://github.com/yashitanamdeo/Basic-Chatbot'
+title: 'sorting_algorithms'
+github: 'https://github.com/biodun-dev/sorting_algorithms'
 external: ''
 tech:
-  - Python
-  - Numpy
-  - Keras
-  - NLTK
-  - Pickle
+  - C programming
 company: ''
 showInProjects: true
 ---
 
-Built a simple chatbot using deep learning techniques. The chatbot is trained on the dataset which contains categories (intents), pattern and responses.
+Sorting algorithm
+
+Big O notation
+
+Sorting algorithms animations

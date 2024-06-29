@@ -1,16 +1,15 @@
 ---
 date: '2020-05-16'
-title: 'JP Morgan Virtual Internship Project'
-github: 'https://github.com/yashitanamdeo/JPMC_Virtual-Internship_Task3'
-external: ''
+title: 'Event management for NCC-Church'
+github: 'https://github.com/biodun-dev/NCC-frontend'
+external: 'https://github.com/biodun-dev/NCC-backend'
 tech:
-  - Python
-  - TypeScript
-  - HTML
+  - Nodejs
+  - MongoDb
+  - ExpoJs
   - CSS
   - Javascript
-company: 'JPMC'
 showInProjects: true
 ---
 
-Completed 3 Modules assigned during the virtual internship program.
+This project involved creating an event management mobile App for NCC-Church. The Event Management application facilitates the planning and execution of church events, using Nodejs and MongoDB for robust backend functionality, ExpoJs for a seamless mobile experience, CSS, and JavaScript for a dynamic front-end. It streamlines event coordination, enhancing community engagement and participation.

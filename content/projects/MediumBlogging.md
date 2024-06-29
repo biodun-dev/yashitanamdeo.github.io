@@ -1,14 +1,13 @@
 ---
 date: '2021-05-23'
-title: 'Medium Blogging'
-github: 'https://github.com/yashitanamdeo/Medium-Blogging'
-external: 'https://yashitanamdeo.github.io/Medium-Blogging/'
+title: 'Homely '
+github: 'https://github.com/biodun-dev/foodordering_landing_page'
+external: 'https://biodun-food-ordering.netlify.app/'
 tech:
-  - HTML
+  - React
   - CSS
   - Javascript
-company: 'Suven'
 showInProjects: true
 ---
 
-Project 2 under Suven Coding Internship.
+Personal Project, This web App is a Landing page that allows user to Order for food,see about, menu and contact information.

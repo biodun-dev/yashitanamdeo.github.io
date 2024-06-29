@@ -1,15 +1,15 @@
 ---
 date: '4'
-title: 'AI Face Landmark Detection'
+title: 'Banana Crystal Debit Card'
 cover: 'face-landmark.png'
-github: 'https://github.com/yashitanamdeo/face-landmark-detection'
-external: 'https://yashitanamdeo.github.io/face-landmark-detection/'
+github: 'https://github.com/BananaCrystal/dashboard'
+external: 'https://www.bananacrystal.com/bc-debit-card/'
 tech:
-  - TensorFlow.JS
+  - Ruby on rails
   - React
 showInProjects: true
 ---
 
-Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on.
+BananaCrystal Card is a crypto debit card which allows direct loading via its wallet. Funds are not stored in a Centralized Exchange (CEX) but in your own private offshore bank which protects customers information with other countries.
 
-Inspired by Nicholas Renotte's [Youtube Tutorial](https://www.youtube.com/watch?v=7lXYGDVHUNw).
+This gives you maximum flexibility and privacy with your USDT and other crypto.

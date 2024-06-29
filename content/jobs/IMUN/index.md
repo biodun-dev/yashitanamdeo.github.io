@@ -1,13 +1,16 @@
 ---
 date: '2021-06-11'
-title: 'Campus Ambassador Intern'
-company: 'International MUN (IMUN)'
+title: 'Senior Software engineer'
+company: 'BananaCrystal USA'
 location: remote
-range: 'June 2021 - July 2021'
-url: 'https://www.internationalmun.org/'
+range: 'April 2024 - present'
+url: 'https://www.bananacrystal.com'
 ---
 
-- Promoted IMUN Online Conferences in different schools/universities and got 10+ registrations.
-- Informed how MUNs enhance - Negotiation, Diplomacy, Leadership, etc.
-- Achieved Brand Ambassador title for increasing the sales of the organization by 10% and creating brand presence.
-- View [OFFER LETTER](https://drive.google.com/file/d/1q-rr54_-9znx-m1PvEDTYkbu5yGy0miK/view?usp=sharing)
+- Lead the development and launch of a debit card project, integrating payment
+  processing capabilities to streamline financial transactions.
+- Developed an in-platform live chat feature (P2pTradeChat) for resolving trade
+  disputes, enhancing user engagement and support accessibility during critical
+  dispute resolutions.
+- Designed and implemented an automation feature for generating compliance reports, including KYC, Currency Transaction Reports, and SARs, streamlining the process and improving accuracy for the compliance division.
+- View [OFFER LETTER](https://drive.google.com/file/d/1fW_xl-Yki1gFxAofGy0HMDDPxVskROvA/view?usp=sharing)

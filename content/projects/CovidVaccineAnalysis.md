@@ -1,16 +1,16 @@
 ---
 date: '2021-05-15'
-title: 'Covid-19 Vaccine Analysis'
-github: 'https://github.com/yashitanamdeo/Covid19_Vaccine_Analysis'
-external: 'https://github.com/yashitanamdeo/Covid19_Vaccine_Analysis/blob/main/Covid19_Vaccine_Analysis.ipynb'
+title: 'Hotel Booking WebApp'
+github: 'https://github.com/biodun-dev/hotel-booking'
+external: 'https://hotel-booking-plum.vercel.app/'
 tech:
-  - Python
-  - Numpy
-  - Pandas
-  - Matplotlib
-  - Seaborn
+  - NodeJS
+  - React
+  - MongoDB
+  - CSS
+  - Redux
 company: ''
 showInProjects: true
 ---
 
-Analyzed how many vaccines each country is using to fight covid-19.
+Personal Project,This webapp allows users to book their Hotel Reservations on the go

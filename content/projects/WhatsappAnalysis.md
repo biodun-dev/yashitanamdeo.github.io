@@ -1,16 +1,16 @@
 ---
 date: '2021-04-18'
-title: 'Whatsapp Chat Analysis'
-github: 'https://github.com/yashitanamdeo/WhatsApp-Chat-Analysis'
-external: 'https://github.com/yashitanamdeo/WhatsApp-Chat-Analysis/blob/main/WhatsApp%20Chat%20Analysis.ipynb'
+title: 'NFT market place'
+github: 'https://github.com/biodun-dev/nft_market_place'
+external: 'https://github.com/biodun-dev/nft_market_place'
 tech:
-  - Python
-  - Regex
-  - Numpy
-  - Pandas
-  - Matplotlib
+  - NextJs
+  - NodeJs
+  - EthereumJs
+  - MongoDb
+  - Scss
 company: ''
 showInProjects: true
 ---
 
-Demonstrated analysis of WhatsApp chat; presented organized messages sent per person in 2 creative ways. Collated stats into visuals; organized emoji, media, and links sent count.
+Personal project: Dive into the vibrant world of digital art with our NFT Marketplace, designed to facilitate the seamless trading of non-fungible tokens. Built using NextJs for a modern, server-side rendered interface, NodeJs for robust server operations, EthereumJs for secure blockchain interactions, MongoDB for efficient data storage, and SCSS for sleek styling. This platform offers a dynamic and user-friendly environment for both creators and collectors to buy, sell, and explore unique digital assets.
