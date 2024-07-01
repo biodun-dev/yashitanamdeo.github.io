@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Abiodun Abdullahi',
   siteDescription: '',
   siteKeywords: '',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+  siteUrl: 'https://biodun-portfolio.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
