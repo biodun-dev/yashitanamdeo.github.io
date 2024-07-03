@@ -1,6 +1,6 @@
 ---
 date: '2021-05-19'
-title: 'Fullstack Developer'
+title: 'Senior Fullstack Developer'
 company: 'Smart Approaches United Kingdom'
 location: remote
 range: 'December 2023 - June 2024'
