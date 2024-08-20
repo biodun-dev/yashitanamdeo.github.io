@@ -17,8 +17,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: '',
-        short_name: '',
+        name: 'Abiodun Abdullahi',
+        short_name: 'Biodun',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

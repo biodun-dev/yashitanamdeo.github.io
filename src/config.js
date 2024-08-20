@@ -4,7 +4,7 @@ module.exports = {
   siteKeywords: '',
   siteUrl: 'https://biodun-portfolio.netlify.app/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'tobeadded',
   googleVerification: '',
   name: 'Abiodun Abdullahi',
   location: 'Lagos,Nigeria',
