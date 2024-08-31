@@ -3,7 +3,7 @@ date: '2021-06-11'
 title: 'Senior Software engineer'
 company: 'BananaCrystal USA'
 location: remote
-range: 'April 2024 - present'
+range: 'January 2024 - June 2024'
 url: 'https://www.bananacrystal.com'
 ---
 
