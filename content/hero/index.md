@@ -1,10 +1,9 @@
 ---
 title: 'Hello, my name is'
 name: 'Abiodun Abdullahi'
-subtitle: 'Celebrating Innovation in Code!'
+subtitle: 'Crafting Solutions, One Line of Code at a Time'
 buttonText: 'Get In Touch'
 ---
 
-As a software developer, I bring the spirit of celebration to every project. The name 'Abiodun' means 'born during a festival,' and I embody that energy by turning complex challenges into joyful achievements.
-
-With expertise in both backend and frontend development, I create innovative solutions that not only work seamlessly but also bring joy to users. Let's turn your ideas into a celebration of success!
+As a software developer with expertise in both backend and frontend development, I thrive on turning complex challenges into seamless, user-friendly solutions. My approach combines technical proficiency with a deep understanding of creating impactful user experiences.
+Whether it's building scalable backend systems, crafting responsive user interfaces, or integrating innovative technologies, I focus on delivering results that exceed expectations. Let’s transform your ideas into solutions that drive success!
